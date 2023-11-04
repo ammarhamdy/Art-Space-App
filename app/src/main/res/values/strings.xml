@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="golden_strawberry">Golden strawberry quite and calm.</string>
+    <string name="unknown">Unknown artist</string>
+    <string name="broken_glass">Broken glass for golden strawberry</string>
+    <string name="gra_3d">3D shapes nice and colorful</string>
+    <string name="gilly_fish">Gilly fish on black background</string>
+</resources>
